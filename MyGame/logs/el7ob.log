@@ -1,0 +1,974 @@
+2015-12-24 10:31:51 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:51 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:51 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:51 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:51 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:51 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:51 INFO  MyWorld:116 - intersection right
+2015-12-24 10:31:51 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:51 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:51 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:51 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:52 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:52 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:52 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:53 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:53 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:53 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:53 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:53 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:53 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:54 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:54 DEBUG ClassPathEngine:88 - pointer : 5 (Insinde Remove Top 3 Plates)
+2015-12-24 10:31:54 INFO  MyWorld:171 - collect 3 increase score :falsetrue=rigth flase=left
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:54 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:54 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:55 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:55 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:55 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:55 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:56 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:116 - intersection right
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:56 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:56 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:56 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:57 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:57 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:57 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:57 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:57 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:57 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:57 DEBUG ClassPathEngine:88 - pointer : 4 (Insinde Remove Top 3 Plates)
+2015-12-24 10:31:57 INFO  MyWorld:171 - collect 3 increase score :falsetrue=rigth flase=left
+2015-12-24 10:31:57 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:57 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:57 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:57 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:57 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:57 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:57 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:57 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:58 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:128 - intersection left
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:58 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:58 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:31:58 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:59 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:59 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:59 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:59 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:31:59 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:31:59 INFO  Frame:21 - New Frame
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Man
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2015-12-24 10:31:59 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:00 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:00 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:00 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:00 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:00 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:00 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:00 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:00 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:00 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:00 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:01 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:01 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:01 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:01 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:02 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:02 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:02 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:02 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:02 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:02 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:02 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:02 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:03 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:03 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:03 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:03 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:04 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:04 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:04 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:04 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:05 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:05 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:05 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:05 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:05 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:05 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:05 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:05 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:06 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:06 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:06 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:06 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:06 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:06 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:06 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:06 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:06 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:06 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:06 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:07 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:07 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:07 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:07 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:08 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:08 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:08 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:08 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:08 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:08 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:08 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:08 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:08 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:09 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:09 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:09 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:09 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:09 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:09 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:09 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:10 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:10 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:10 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:10 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:10 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:10 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:10 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:11 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:11 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:11 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:11 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:11 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:11 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:11 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:12 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:12 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:13 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:13 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:13 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:13 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:14 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:14 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:14 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:14 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:15 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:15 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:15 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:15 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:15 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:15 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:15 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:16 INFO  Frame:21 - New Frame
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Man
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Man
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Plate
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2015-12-24 10:32:16 DEBUG ShapeFactory:65 - eg.edu.alexu.csd.oop.game.circutOfPlates.object.Bar
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:16 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:16 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:16 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:17 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:17 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:18 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:18 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:18 INFO  MyWorld:116 - intersection right
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:18 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:18 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:19 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:19 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:128 - intersection left
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:197 - bar dead, reuse bar in another position
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:19 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:19 INFO  MyWorld:218 - reuse the plate in another position
+2015-12-24 10:32:20 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:20 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:20 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:20 INFO  MyWorld:208 - bar intersect, reduce bar life
+2015-12-24 10:32:20 INFO  MyWorld:147 - intersect bar & plate
+2015-12-24 10:32:20 INFO  MyWorld:208 - bar intersect, reduce bar life
